@@ -1,5 +1,5 @@
 
-import {TICKETS_LIST, TICKET_BOOK, GET_EVENT, BOOKING_SUBMIT } from "../actions/types";
+import {TICKETS_LIST, GET_EVENT, BOOKING_SUBMIT } from "../actions/types";
 import { updateBookingData } from "../utils/helper"
 
 const contactReducer = (state = {}, action) => {
