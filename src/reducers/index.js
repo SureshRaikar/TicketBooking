@@ -10,7 +10,7 @@ import ticketsReducer from './ticketsReducer';
 
 //Step 4.3 combine all reducers into one big object for store
 const rootReducers = combineReducers({
-  contacts: ticketsReducer
+  tickets: ticketsReducer
 });
 
 //Step 4.4 exporing the rootReducer -- that is the combined reducer

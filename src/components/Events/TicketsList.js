@@ -64,7 +64,7 @@ const mapDispatchToProps = (dispatch) => {
 // converts state to the read-only props
 const mapStateToProps = (state) => {
   return {
-    ticketsList: state.contacts.ticketsList,
+    ticketsList: state.tickets.ticketsList,
 
   }
 } 

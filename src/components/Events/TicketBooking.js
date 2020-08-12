@@ -153,7 +153,7 @@ const mapDispatchToProps = (dispatch) => {
 // converts state to the read-only props
 const mapStateToProps = (state) => {
   return {
-    event: state.contacts,
+    event: state.tickets,
 
   }
 } 
