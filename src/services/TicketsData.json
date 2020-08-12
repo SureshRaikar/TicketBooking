@@ -1,0 +1,13 @@
+{
+    "ticketsList": [
+        { "name": "Event1", "image":"https://picsum.photos/200", "travelDate": "22/Dec/2020", "SeatsAvaliable": 10},
+        { "name": "Event2", "image":"https://picsum.photos/200/300", "travelDate": "23/Dec/2020", "SeatsAvaliable": 11},
+        { "name": "Event3", "image":"https://picsum.photos/200", "travelDate": "24/Dec/2020", "SeatsAvaliable": 9},
+        { "name": "Event4", "image":"https://picsum.photos/200/300", "travelDate": "25/Dec/2020", "SeatsAvaliable": 2},
+        { "name": "Event5", "image":"https://picsum.photos/200/300", "travelDate": "26/Dec/2020", "SeatsAvaliable": 15},
+        { "name": "Event6", "image":"https://picsum.photos/200", "travelDate": "27/Dec/2020", "SeatsAvaliable": 18},
+        { "name": "Event7", "image":"https://picsum.photos/200/300", "travelDate": "28/Dec/2020", "SeatsAvaliable": 0},
+        { "name": "Event8", "image":"https://picsum.photos/200", "travelDate": "29/Dec/2020", "SeatsAvaliable": 5},
+        { "name": "Event9", "image":"https://picsum.photos/200/300", "travelDate": "30/Dec/2020", "SeatsAvaliable": 2}
+    ]
+}

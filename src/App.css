@@ -1,0 +1,27 @@
+/* app wide styles */ 
+
+.topMargin {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.copyright{
+  color: red;
+}
+
+.ticketsList {
+  margin-bottom: 45px;
+}
+
+.col-md-3 {
+  margin-bottom: 20px
+}
+
+.btn-cancel {
+  margin-left: 20px;
+}
+
+.ticketsList input {
+  width: 250px;
+  float: right;
+}
